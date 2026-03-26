@@ -1,0 +1,43 @@
+===Game Rules===
+Rock vs Paper = Paper Wins
+Paper vs Scissor = Scissor Wins
+Scissor vs Rock = Rock Wins
+
+----- Round 1 -----
+Rock = 0
+Paper = 1
+Scissor = 2
+Choose your Option(0-2): 1
+Your choice: Paper
+Computer choice: Scissor
+COMPUTER WON THIS ROUND!
+Score -> You: 0 | Computer: 1
+
+----- Round 2 -----
+Rock = 0
+Paper = 1
+Scissor = 2
+Choose your Option(0-2): 3
+Enter choice between 0 - 2
+Rock = 0
+Paper = 1
+Scissor = 2
+Choose your Option(0-2): 0
+
+Your choice: Rock
+Computer choice: Scissor
+YOU WON THIS ROUND!
+Score -> You: 1 | Computer: 1
+
+----- Round 3 -----
+Rock = 0
+Paper = 1
+Scissor = 2
+Choose your Option(0-2): 1
+Your choice: Paper
+Computer choice: Rock
+YOU WON THIS ROUND!
+Score -> You: 2 | Computer: 1
+
+===== FINAL RESULT =====
+YOU ARE THE HIGH SCORE WINNER!
